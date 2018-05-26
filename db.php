@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$db = "";
+$db = "infinite_scrolling";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $db);
